@@ -1,0 +1,10 @@
+[
+    {
+        "DriverId":"AWS_xxxxxxxxxxxx",
+        "Pics":[
+            "https://xx.com/xxx.jpg"
+        ],
+        "Feature":1.234567,
+        "Version":1581234567
+    }
+]
